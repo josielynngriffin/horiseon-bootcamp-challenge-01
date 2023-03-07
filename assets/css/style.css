@@ -53,7 +53,7 @@ a {
     text-decoration: none;
 }
 
-p {
+p, small {
     font-size: 16px;
 }
 
